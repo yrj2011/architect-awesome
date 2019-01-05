@@ -1138,7 +1138,7 @@ APM —  Application Performance Management
 
 ### 消息的顺序
 * [《如何保证消费者接收消息的顺序》](https://www.cnblogs.com/cjsblog/p/8267892.html)
-
+* [分布式开放消息系统(RocketMQ)的原理与实践] (https://www.jianshu.com/p/453c6e7ff81c)   
 ### RabbitMQ
 
 支持事务，推拉模式都是支持、适合需要可靠性消息传输的场景。
