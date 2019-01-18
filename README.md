@@ -8,7 +8,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/xingshaocheng/architect-awesome.svg?style=flat&label=Fork)](https://github.com/xingshaocheng/architect-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/xingshaocheng/architect-awesome.svg?style=flat&label=Watch)](https://github.com/xingshaocheng/architect-awesome/watchers)
 
-**更新于20180916**
+
 
 
 * [数据结构](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据结构)
@@ -276,7 +276,7 @@
 			* [Zab](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#zab)
 			* [Raft](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#raft)
 			* [Gossip](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#gossip)
-			* [两阶段提交、多阶段提交](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#两阶段提交多阶段提交)
+			* [两阶段提交、多阶段提交](https://github.com/yrj2011/architect-awesome/blob/master/README.md#两阶段提交多阶段提交)
 		* [幂等](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#幂等)
 		* [分布式一致方案](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式一致方案)
 		* [分布式 Leader 节点选举](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#分布式-leader-节点选举)
@@ -722,7 +722,7 @@ TODO
 
 ## 协程
 
-* [《终结python协程----从yield到actor模型的实现》](https://www.cnblogs.com/zhiyong-ITNote/p/8717945.html)
+* [《终结python协程----从yield到actor模型的实现》](https://www.thinksaas.cn/group/topic/839375/)
 	* 线程的调度是由操作系统负责，协程调度是程序自行负责
 	* 与线程相比，协程减少了无谓的操作系统切换.
 	* 实际上当遇到IO操作时做切换才更有意义，（因为IO操作不用占用CPU），如果没遇到IO操作，按照时间片切换.
@@ -1138,7 +1138,7 @@ APM —  Application Performance Management
 
 ### 消息的顺序
 * [《如何保证消费者接收消息的顺序》](https://www.cnblogs.com/cjsblog/p/8267892.html)
-* [分布式开放消息系统(RocketMQ)的原理与实践] (https://www.jianshu.com/p/453c6e7ff81c)   
+
 ### RabbitMQ
 
 支持事务，推拉模式都是支持、适合需要可靠性消息传输的场景。
@@ -1858,7 +1858,7 @@ Java、Spring、Dubbo 优雅关闭方式。
 * [《MySql分表和表分区详解》](https://www.2cto.com/database/201503/380348.html)
 	* 分区：是MySQL内部机制，对客户端透明，数据存储在不同文件中，表面上看是同一个表。
 	* 分表：物理上创建不同的表、客户端需要管理分表路由。
-* [《10亿级订单系统分库分表设计思路》](https://juejin.im/entry/5ba59ef8e51d450e616015f7)
+
 ## 服务治理
 ###  服务注册与发现
 
@@ -1925,7 +1925,7 @@ Java、Spring、Dubbo 优雅关闭方式。
 #### 两阶段提交、多阶段提交
 
 * [《关于分布式事务、两阶段提交协议、三阶提交协议》](http://blog.jobbole.com/95632/)
-
+* [《redo&undo日志解析》](https://blog.csdn.net/qq_38125183/article/details/80652557)
 ### 幂等
 
 * [《分布式系统---幂等性设计》](https://www.cnblogs.com/wxgblogs/p/6639272.html)
@@ -2449,5 +2449,6 @@ TODO
 * [Linode](http://linode.com)
 * [DigitalOcean](https://www.digitalocean.com)
 * [Vultr](https://www.vultr.com/)
+
 
 
