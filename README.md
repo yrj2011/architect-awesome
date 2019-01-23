@@ -1197,7 +1197,7 @@ Java实现，推拉模式都是支持，吞吐量逊于Kafka。可以保证消�
 	* Quartz集群中，独立的Quartz节点并不与另一其的节点或是管理节点通信，而是通过相同的数据库表来感知到另一Quartz应用的 
 * [《Elastic-Job-Lite 源码解析》](http://www.iocoder.cn/categories/Elastic-Job-Lite/?vip&architect-awesome)
 * [《Elastic-Job-Cloud 源码解析》](http://www.iocoder.cn/categories/Elastic-Job-Cloud/?vip&architect-awesome)
-
+* [《Elastic-Job-Cloud doc》](https://github.com/yrj2011/elastic-job-doc/blob/master/elastic-job-cloud-doc/content/00-overview/index.md)
 
 ## RPC
 
