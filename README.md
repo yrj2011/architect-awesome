@@ -1198,7 +1198,7 @@ Java实现，推拉模式都是支持，吞吐量逊于Kafka。可以保证消�
 * [《Elastic-Job-Lite 源码解析》](http://www.iocoder.cn/categories/Elastic-Job-Lite/?vip&architect-awesome)
 * [《Elastic-Job-Cloud 源码解析》](http://www.iocoder.cn/categories/Elastic-Job-Cloud/?vip&architect-awesome)
 * [《Elastic-Job-Cloud doc》](http://elasticjob.io/docs/elastic-job-lite/02-guide/web-console/)
-
+* [《elastic-job详解》](http://www.cnblogs.com/haoxinyue/p/6919375.html)
 ## RPC
 
 * [《从零开始实现RPC框架 - RPC原理及实现》](https://blog.csdn.net/top_code/article/details/54615853)
