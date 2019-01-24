@@ -358,6 +358,7 @@
 # 方法论
    * [《许雪里-《方法论》专题》](http://www.xuxueli.com/blog/#/?id=%E4%BA%8C%E3%80%81%E3%80%8A%E6%96%B9%E6%B3%95%E8%AE%BA%E3%80%8B%E4%B8%93%E9%A2%98)
 
+   * [《从部落到帝国 - 后端技术栈的演进及开源实践》](https://coderxing.gitbooks.io/architecture-evolution/)
 
 # 数据结构
 
