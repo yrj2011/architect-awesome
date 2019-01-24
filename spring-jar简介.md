@@ -7,4 +7,4 @@
   * 轮询框架
   * JMX，通过Jconsole检查和调用操作属性
   * 组合配置
-   [《引用》](https://blog.csdn.net/mzh_cn/article/details/80636718)
+  * [《引用》](https://blog.csdn.net/mzh_cn/article/details/80636718)
