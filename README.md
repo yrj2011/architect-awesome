@@ -360,7 +360,7 @@
 
    * [《从部落到帝国 - 后端技术栈的演进及开源实践》](https://coderxing.gitbooks.io/architecture-evolution/)
 
-   * [ 《递归》 ] (https://blog.csdn.net/qq_34039315/article/details/78679029)
+   * [《递归》](https://blog.csdn.net/qq_34039315/article/details/78679029)
 # 数据结构
 
 ## 队列
