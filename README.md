@@ -1323,7 +1323,7 @@ servlet 3.0 异步特性可用于配置中心的客户端
 
   * [《IO多路复用之select、poll、epoll详解 》](https://www.cnblogs.com/jeakeven/p/5435916.html)
 
-  * [《两种高效的事件处理模型：Reactor模式和Proactor模式  》](https://www.cnblogs.com/bitkevin/p/5724410.html)
+  * [《两种高效的事件处理模型：Reactor模式和Proactor模式  》](https://www.cnblogs.com/pigerhan/p/3474217.html)
 
   * [《深入理解Java NIO》](https://www.cnblogs.com/geason/p/5774096.html)
 
