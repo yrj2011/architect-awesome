@@ -1317,12 +1317,16 @@ servlet 3.0 异步特性可用于配置中心的客户端
 	* select，poll “醒着”的时候要遍历整个fd集合，而epoll在“醒着”的时候只要判断一下就绪链表是否为空就行了，通过回调机制节省大量CPU时间；select，poll每次调用都要把fd集合从用户态往内核态拷贝一次，而epoll只要一次拷贝。
 	* poll会随着并发增加，性能逐渐下降，epoll采用红黑树结构，性能稳定，不会随着连接数增加而降低。
 	
-* [《select，poll，epoll比较  》](http://xingyunbaijunwei.blog.163.com/blog/static/76538067201241685556302/)
+  * [《select，poll，epoll比较  》](http://xingyunbaijunwei.blog.163.com/blog/static/76538067201241685556302/)
+
 	* 在连接数少并且连接都十分活跃的情况下，select和poll的性能可能比epoll好，毕竟epoll的通知机制需要很多函数回调。
 
   * [《IO多路复用之select、poll、epoll详解 》](https://www.cnblogs.com/jeakeven/p/5435916.html)
 
-* [《深入理解Java NIO》](https://www.cnblogs.com/geason/p/5774096.html)
+  * [《两种高效的事件处理模型：Reactor模式和Proactor模式  》](https://www.cnblogs.com/bitkevin/p/5724410.html)
+
+  * [《深入理解Java NIO》](https://www.cnblogs.com/geason/p/5774096.html)
+
 	* NIO 是一种同步非阻塞的 IO 模型。同步是指线程不断轮询 IO 事件是否就绪，非阻塞是指线程在等待 IO 的时候，可以同时做其他任务
 
 * [《BIO与NIO、AIO的区别》](https://blog.csdn.net/skiof007/article/details/52873421)
