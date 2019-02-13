@@ -149,6 +149,8 @@
 		* [Kafka](https://github.com/yrj2011/architect-awesome/blob/master/README.md#kafka)
 		* [Redis 消息推送](https://github.com/yrj2011/architect-awesome/blob/master/README.md#redis-消息推送)
 		* [ZeroMQ](https://github.com/yrj2011/architect-awesome/blob/master/README.md#zeromq)
+		* [消息队列对比图](https://github.com/yrj2011/architect-awesome/blob/master/README.md#消息队列对比图)
+
 	* [定时调度](https://github.com/yrj2011/architect-awesome/blob/master/README.md#定时调度)
 		* [单机定时调度](https://github.com/yrj2011/architect-awesome/blob/master/README.md#单机定时调度)
 		* [分布式定时调度](https://github.com/yrj2011/architect-awesome/blob/master/README.md#分布式定时调度)
@@ -1178,6 +1180,10 @@ Java实现，推拉模式都是支持，吞吐量逊于Kafka。可以保证消�
 
 ### ZeroMQ
  TODO
+
+### 消息队列对比图
+    * [《ActiveMQ、RabbitMQ、RocketMQ、Kafka 对比（图示）》](https://www.cnblogs.com/cag2050/p/7724055.html)
+
 
 
 ## 定时调度
