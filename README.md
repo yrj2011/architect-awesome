@@ -1183,6 +1183,7 @@ Java实现，推拉模式都是支持，吞吐量逊于Kafka。可以保证消�
 
 ### 消息队列对比图
  * [《ActiveMQ、RabbitMQ、RocketMQ、Kafka 对比》](https://www.cnblogs.com/cag2050/p/7724055.html)
+ * [《Kafka、RabbitMQ、RocketMQ等消息中间件的对比》](https://blog.csdn.net/belvine/article/details/80842240)
 
 
 
