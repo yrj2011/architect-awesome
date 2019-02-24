@@ -11,6 +11,7 @@
 
 
 * [方法论](https://github.com/yrj2011/architect-awesome/blob/master/README.md#方法论)
+* [jvm模型](https://github.com/yrj2011/architect-awesome/blob/master/README.md#jvm模型)
 * [数据结构](https://github.com/yrj2011/architect-awesome/blob/master/README.md#数据结构)
 
 
@@ -363,6 +364,10 @@
    * [《从部落到帝国 - 后端技术栈的演进及开源实践》](https://coderxing.gitbooks.io/architecture-evolution/)
 
    * [《递归》](https://blog.csdn.net/qq_34039315/article/details/78679029)
+
+# jvm模型
+  * [《jvm模型》](https://www.cnblogs.com/dingyingsi/p/3760447.html)
+
 # 数据结构
 
 ## 队列
