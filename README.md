@@ -1,6 +1,10 @@
 
 <h1>《后端架构师技术图谱》</h1>
+
 AOP https://www.jianshu.com/p/8af3cdf3b499
+
+AOP顺序  https://blog.csdn.net/qq_32331073/article/details/80596084
+
 ![阿里巴巴集团长期内推，欢迎自荐，xingshaocheng@gmail.com](https://cdns.coderxing.com/HrUJ4G3E.png_700x700)
 
 [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
