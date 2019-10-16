@@ -7,6 +7,9 @@ AOP https://www.jianshu.com/p/8af3cdf3b499
 
 AOP顺序  https://blog.csdn.net/qq_32331073/article/details/80596084
 
+一文读懂分布式架构知识体系（内含超全核心知识大图)   https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247487007&idx=1&sn=7a0f6085f672a8a23d5fc6375eb7d1c1&chksm=fae505d0cd928cc69c23e3e63e3ff846ec67de965923cd0e041fe6e664e9b351c8e249659c98&mpshare=1&scene=1&srcid=&sharer_sharetime=1571198317836&sharer_shareid=679ba1be38bfa167dffebc7f93e9cc60&rd2werd=1#wechat_redirect
+
+
 ![阿里巴巴集团长期内推，欢迎自荐，xingshaocheng@gmail.com](https://cdns.coderxing.com/HrUJ4G3E.png_700x700)
 
 [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
