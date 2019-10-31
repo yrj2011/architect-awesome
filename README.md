@@ -1,6 +1,9 @@
 
 <h1>《后端架构师技术图谱》</h1>
 
+详细分析mysql redo日志 https://www.cnblogs.com/f-ck-need-u/archive/2018/05/08/9010872.html
+
+
 UNIX编程艺术
 
 AOP https://www.jianshu.com/p/8af3cdf3b499
