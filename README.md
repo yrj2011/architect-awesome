@@ -1,6 +1,8 @@
 
 <h1>《后端架构师技术图谱》</h1>
 
+https://blog.csdn.net/ThinkWon/article/details/103522351?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
+
 详细分析mysql redo日志 https://www.cnblogs.com/f-ck-need-u/archive/2018/05/08/9010872.html
 
 
