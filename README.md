@@ -9,6 +9,8 @@
    
    给你一个项目你如何开展？
 
+   对技术的所有细节的掌握？
+   
 <h1>《后端架构师技术图谱》</h1>
 
 https://blog.csdn.net/ThinkWon/article/details/103522351?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
