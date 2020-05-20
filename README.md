@@ -1,9 +1,14 @@
 
-灵魂拷问
+<h1>灵魂拷问</h1>
+
    能不能再说的细一点？
+   
    如果保证项目开发敏捷？
+
    如何鲜明的描述系统，有清楚，有过程、有重点、有亮点?
+   
    给你一个项目你如何开展？
+
 <h1>《后端架构师技术图谱》</h1>
 
 https://blog.csdn.net/ThinkWon/article/details/103522351?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
